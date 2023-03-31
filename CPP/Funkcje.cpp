@@ -393,7 +393,6 @@ int menu_glowne()
     {
     case '1':
         cout << "Wybrano Wprowadzanie Dzia³u" << endl;
-        PokazWszystkieDzialy();
         NowyDzial.Wypelnij();
         ListaDzialow.Add(NowyDzial);
         break;
