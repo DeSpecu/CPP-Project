@@ -5,7 +5,6 @@ using namespace std;
 
 int main()
 {   
-
     //Polskie Znaki
     setlocale(LC_ALL, "");
 
@@ -16,7 +15,6 @@ int main()
     do
     {
         check = menu_glowne();
-
     } while (check == 0);
 
     zapisz();

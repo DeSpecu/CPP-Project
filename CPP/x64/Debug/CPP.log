@@ -1,1 +1,4 @@
-﻿  CPP.vcxproj -> C:\Users\szymk\Desktop\CPP-Project\x64\Debug\CPP.exe
+﻿  Funkcje.cpp
+C:\Users\szymk\Desktop\CPP-Project\CPP\Funkcje.cpp(320,9): warning C4101: 'metoda': unreferenced local variable
+C:\Users\szymk\Desktop\CPP-Project\CPP\Funkcje.cpp(322,12): warning C4101: 'wyplata': unreferenced local variable
+  CPP.vcxproj -> C:\Users\szymk\Desktop\CPP-Project\x64\Debug\CPP.exe

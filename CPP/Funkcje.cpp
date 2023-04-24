@@ -408,7 +408,7 @@ int menu_glowne()
         cout << "Wybrano Zatrudnianie Pracownika" << endl;
         NowyPracownik.WypelnijDane();
         NowyPracownik.Zatrudnij();
-        ListaZatrudnionychPracownikow.Add(NowyPracownik);
+        ListaZatrudnionychPracownikow.Add(NowyPracownik);   
         break;
 
     case 'p':
